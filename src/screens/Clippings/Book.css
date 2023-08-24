@@ -1,0 +1,27 @@
+#cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 150px;
+    height: 180px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+#cover:hover {
+    filter: brightness(0.950);
+}
+
+h3 {
+    height: 100px;
+    overflow: hidden;
+    color: rgb(36, 78, 94);
+}
+
+p {
+    color: rgb(81, 80, 80);
+}

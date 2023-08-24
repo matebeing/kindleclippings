@@ -1,0 +1,7 @@
+header {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+    border-bottom: 1px solid rgb(201, 201, 201);
+    font-size: small;
+}

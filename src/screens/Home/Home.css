@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 80vh;
+    gap: 50px;
+}
+
+#tutorial {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 300px;
+    gap: 10px;
+    font-size: small;
+}
+
+#kindleMockup {
+ width: 15rem;
+}
+
+.custom-file-upload {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid rgb(95, 95, 255);
+    border-radius: 0.5rem;
+    margin-top: 10px;
+    padding: 6px 12px;
+    cursor: pointer;
+
+}
+
+.custom-file-upload > link {
+    color: rgb(95, 95, 255);
+}
+
+
+
+#importButton {
+    margin-top: 20px;
+    background-color: rgb(95, 95, 255);
+    padding: 1em;
+    color: white;
+    border-radius: 0.3rem;
+    cursor: pointer;
+}

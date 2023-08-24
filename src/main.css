@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  margin: 0;
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: rgb(243, 243, 247);
+}
